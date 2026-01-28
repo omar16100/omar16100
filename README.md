@@ -2,7 +2,7 @@
 
 **ML Engineer** building GenAI and ML platforms at scale.
 
-Currently at **Fairprice Group (NTUC)**, Singapore's largest grocery retailer, where I build LLM platforms, recommendation systems, and computer vision solutions.
+Currently at Singapore's largest grocery retailer, where I build LLM platforms, improve recommendation systems, and computer vision solutions for creatives.
 
 ## What I'm Working On
 
