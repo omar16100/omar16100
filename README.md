@@ -49,7 +49,9 @@ Currently at Singapore's largest grocery retailer, where I build LLM platforms, 
 
 ## Contributing Elsewhere
 
-Open source contributions to [psd-tools](https://github.com/psd-tools/psd-tools) (drop shadow and outer glow layer effect rendering), [App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) (submission validation, localization updates, price filtering), [whatsapp-mcp](https://github.com/lharries/whatsapp-mcp), [HistoryHound](https://github.com/pkmishra/HistoryHound), and [aws-samples](https://github.com/aws-samples).
+Merged: [App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) (submission validation, localization updates, price point filtering, stale review handling) and [aws-codecommit-devops-model](https://github.com/aws-samples/aws-codecommit-devops-model).
+
+Open: [psd-tools](https://github.com/psd-tools/psd-tools) (drop shadow and outer glow layer effect rendering), [whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) (context-aware whatsmeow API), [HistoryHound](https://github.com/pkmishra/HistoryHound) (stdio transport, Chrome profile detection).
 
 ## Tech Stack
 
