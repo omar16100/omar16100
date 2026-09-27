@@ -59,7 +59,7 @@
 
 Merged: [App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) ([#739](https://github.com/rorkai/App-Store-Connect-CLI/pull/739) to [#743](https://github.com/rorkai/App-Store-Connect-CLI/pull/743): submission validation, localization updates, price point filtering, stale review submission handling, app privacy error hints) and [aws-codecommit-devops-model](https://github.com/aws-samples/aws-codecommit-devops-model) ([#4](https://github.com/aws-samples/aws-codecommit-devops-model/pull/4): Docker install prerequisite).
 
-Open (as of 27 Sep 2026): [psd-tools #679](https://github.com/psd-tools/psd-tools/pull/679) (drop shadow layer effect rendering), [whatsapp-mcp #133](https://github.com/lharries/whatsapp-mcp/pull/133) (move to the context-aware whatsmeow API), [HistoryHound #12](https://github.com/pkmishra/HistoryHound/pull/12) (stdio transport, Chrome profile detection fix).
+Open (as of 27 Sep 2026): [psd-tools #679](https://github.com/psd-tools/psd-tools/pull/679) (drop shadow layer effect rendering), [whatsapp-mcp #363](https://github.com/lharries/whatsapp-mcp/pull/363) (move to the context-aware whatsmeow API), [HistoryHound #12](https://github.com/pkmishra/HistoryHound/pull/12) (stdio transport, Chrome profile detection fix).
 
 ## Tech Stack
 
