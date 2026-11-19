@@ -71,13 +71,13 @@ Open (as of 27 Sep 2026): [psd-tools #679](https://github.com/psd-tools/psd-tool
 
 ## Talks & Writing
 
-- [Write-up on M3 Ultra GPU clock drops under sustained LLM load](https://omarshabab.com/mac-studio-firmware-gpu-limiter/). It proposed a 338 MHz firmware GPU limiter; surge's own later telemetry did not support that premise ([retraction](https://github.com/omar16100/surge#the-gpu-limiter-premise-retracted))
-- [Kimi-Linear ran a real 1M context on my Mac Studio](https://omarshabab.com/kimi-linear-1m-context/)
-- [The two numbers that decide local LLMs: 100 tokens/sec and 1M context](https://omarshabab.com/local-llm-two-numbers/)
+- [Write-up on M3 Ultra GPU clock drops under sustained LLM load](https://omar.sg/mac-studio-firmware-gpu-limiter/). It proposed a 338 MHz firmware GPU limiter; surge's own later telemetry did not support that premise ([retraction](https://github.com/omar16100/surge#the-gpu-limiter-premise-retracted))
+- [Kimi-Linear ran a real 1M context on my Mac Studio](https://omar.sg/kimi-linear-1m-context/)
+- [The two numbers that decide local LLMs: 100 tokens/sec and 1M context](https://omar.sg/local-llm-two-numbers/)
 - [Serving Machine Learning Models in a Serverless Manner](https://www.youtube.com/watch?v=Fon3xvdAKe4): talk in the AWS User Group Malaysia March 2021 livestream (the link is the full stream)
 - [Practical Introduction to NLP](https://github.com/omar16100/Practical-Introduction-To-NLP)
 
 ## Connect
 
-- Website: [omarshabab.com](https://omarshabab.com)
+- Website: [omar.sg](https://omar.sg)
 - LinkedIn: [/in/omar16100](https://linkedin.com/in/omar16100)
